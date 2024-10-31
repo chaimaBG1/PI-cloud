@@ -1,4 +1,4 @@
-package tn.esprit.projetpi.Services;
+package tn.esprit.projetpi;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
